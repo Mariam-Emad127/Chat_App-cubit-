@@ -96,13 +96,6 @@ class ChatPage extends StatelessWidget {
             ))
       ]),
     );
-    /* }
-          else{
-return Text("Loading...");
-
-
-          }
-        }, */
-    //);
+ 
   }
 }
